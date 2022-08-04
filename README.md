@@ -1,7 +1,8 @@
 - 👋 Oi... eu sou Wallace Soares
 - 👀 Sou fã de tecnologia
 - 🌱 Sou estudante de Analise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
-- 🧑‍🎓 Tenho conhecimento das seguintes tecnologias de Desenvolvimento Web HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress
+- 🧑‍🎓 Tenho conhecimento das seguintes tecnologias de Desenvolvimento Web HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress.
+ReactJS, NextJS, Styled-Components, Testes com Jest e Testing Library , Storybook, Strapi.
 
 
 <!---
