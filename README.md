@@ -4,7 +4,7 @@
 
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio_Interativo-2563eb?style=for-the-badge)](https://wallacextreme.github.io/portfolio/)
 [![Modo Solo Leveling](https://img.shields.io/badge/🎮_Portfólio_Hunter_Rank_S-7c3aed?style=for-the-badge)](https://wallacextreme.github.io/portfolio/sololeveling.html)
-[![Currículo ATS](https://img.shields.io/badge/📄_Currículo_Online_(HTML)-10b981?style=for-the-badge)](https://wallacextreme.github.io/portfolio/curriculo.html)
+[![Currículo Online](https://img.shields.io/badge/📄_CURRÍCULO_ONLINE_(PDF)-10b981?style=for-the-badge)](https://wallacextreme.github.io/portfolio/curriculo.html)
 [![Baixar PDF](https://img.shields.io/badge/📥_Baixar_Currículo_(PDF)-e11d48?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://wallacextreme.github.io/portfolio/Curriculo_Wallace_Soares_2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wallacextreme)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wallacextreme@hotmail.com)
