@@ -15,7 +15,7 @@
 
 - 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá ([Diploma Digital Verificável: `163.163.80fed31e1b42`](https://consultadiploma.estacio.br/diploma/163.163.80fed31e1b42)).
 - 🏗️ Especialista em transformar regras de negócio complexas (fiscal, ERP, PDV, crediário, logística e catálogos técnicos) em sistemas **Offline-First** de latência zero para Web (**PWA**) e Desktop (**Tauri v2 / Windows `.msi` & `.exe`**).
-- 🧪 Foco estrito em qualidade de engenharia: **+1.600 testes automatizados** somados em projetos reais (1.102 no GestãoPro, 370 no Cinzas do Éter, 149 na Pizzaria, 126 no FiscalFlow, 26 no Catálogo Balcão) via Vitest e Bun Test, tipagem estrita em TypeScript, cálculos monetários em centavos inteiros e conformidade **ISO/IEC 25010:2023**.
+- 🧪 Foco estrito em qualidade de engenharia: **+1.617 testes automatizados** somados em projetos reais (1.102 no GestãoPro, 370 no Cinzas do Éter, 149 na Pizzaria, 126 no FiscalFlow, 26 no Catálogo Balcão) via Vitest e Bun Test, tipagem estrita em TypeScript, cálculos monetários em centavos inteiros e conformidade **ISO/IEC 25010:2023**.
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Projeto | Arquitetura & Stack Principal | Qualidade & Destaques Técnicos | Links |
 | :--- | :--- | :--- | :---: |
-| **🎨 Sportinox Balcão Pro** | `Python (PyMuPDF)` `Playwright` `Tauri 2 (Rust)` `PWA` `WebP` | Mineração de PDFs (3.396 peças, 3.435 fotos WebP HD), busca sub-50ms (1.2ms), Lightbox 400%, 4 naturezas de vínculos, **17 testes (100% pass)**, 10 Quality Gates | [Código](https://github.com/wallacextreme/sportinox-catalogo-balcao) • [Demo (PWA)](https://wallacextreme.github.io/sportinox-catalogo-balcao/) |
+| **🎨 Sportinox Balcão Pro** | `Python (PyMuPDF)` `Playwright` `Tauri 2 (Rust)` `PWA` `WebP` | Mineração de PDFs (3.396 peças, 3.435 fotos WebP HD), busca sub-50ms (1.2ms), Lightbox 400%, 4 naturezas de vínculos, **17 testes (100% pass)**, 10 Quality Gates | [Código](https://github.com/wallacextreme/sportinox-catalogo-balcao) • [Demo (PWA)](https://wallacextreme.github.io/sportinox-catalogo-balcao/) • [Release v1.0.0](https://github.com/wallacextreme/sportinox-catalogo-balcao/releases/tag/v1.0.0) |
 | **🧾 FiscalFlow** | `Tauri 2 (Rust)` `TypeScript` `SQLite` `WASM` `Vitest` | Parser NF-e/NFC-e/NFS-e/CT-e/SPED, Módulo 11 SEFAZ, SHA-256, **126 testes (100% pass)**, ISO 25010 | [Código](https://github.com/wallacextreme/FiscalFlow) • [Demo](https://wallacextreme.github.io/FiscalFlow/) • [Release v1.0.0](https://github.com/wallacextreme/FiscalFlow/releases/tag/v1.0.0) |
 | **📦 GestãoPro ERP** | `Tauri 2` `Vite 8` `Tailwind v4` `IndexedDB` `Firebase` | ERP em 13 módulos, PDV, Estoque, Cotações, **Sync Engine (Outbox Pattern + LWW)**, **1.102 testes (100% pass)** | [Código](https://github.com/wallacextreme/gerenciador-de-produtos) • [Demo](https://wallacextreme.github.io/gerenciador-de-produtos/) • [Release v1.13.0](https://github.com/wallacextreme/gerenciador-de-produtos/releases/tag/v1.13.0) |
 | **🔍 Catálogo Balcão XREF** | `Python (PyMuPDF)` `TypeScript` `Tauri 2` `IndexedDB` | Engenharia reversa de PDFs (`XREF`/`SMask` -> WebP), busca sub-50ms (média 1.29ms), **26 testes** | [Código](https://github.com/wallacextreme/catalogo-balcao-pro) |
